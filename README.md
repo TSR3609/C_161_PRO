@@ -1,1 +1,1 @@
-# C_161_PRO
+# PRO-C161-Student-Activity
